@@ -7,6 +7,6 @@ As a viewer you can expect to find some fun facts about me, some mini projects I
 
 Whether you are a potential employer or future colleague, feel free to reach out and connect with me.
 
-![screenshot](bioScreenshot.png) 
+![screenshot](/assets/bioScreenshot.png) 
 
 https://patrickstutts.github.io/ResponsiveBio/
